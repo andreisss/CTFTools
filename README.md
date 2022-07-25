@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=rAGkm4pv44s (Audio Spectrogram & StegCracker Passwords - DownUnderCTF)
 https://www.youtube.com/watch?v=UUSztGCp4Sw (Nested JavaScript Obfuscation - GuidePoint Security CTF Challenge)
-
+https://www.youtube.com/watch?v=YmJoeoXilac  (Angstrom CTF 2022 - Challenge Walkthroughs)
 # CTFTools
 ++Networking
 - Wireshark, tshark
