@@ -9,6 +9,8 @@ During this event, you will:
 • PCAP Analysis
 
 
+https://redcanary.com/threat-detection-report/techniques/process-injection/
+
 https://www.youtube.com/watch?v=rAGkm4pv44s (Audio Spectrogram & StegCracker Passwords - DownUnderCTF)
 https://www.youtube.com/watch?v=UUSztGCp4Sw (Nested JavaScript Obfuscation - GuidePoint Security CTF Challenge)
 https://www.youtube.com/watch?v=YmJoeoXilac  (Angstrom CTF 2022 - Challenge Walkthroughs)
