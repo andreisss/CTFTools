@@ -62,3 +62,10 @@ https://www.youtube.com/watch?v=YmJoeoXilac  (Angstrom CTF 2022 - Challenge Walk
 - Exe unpackers
 - Resource unpackers
 - Compilers
+
+
+REVERSE binary:
+./FILE
+ltrace ./file
+gdb-pwndbg file  - info functions - unhex value (rax,rdx)
+
