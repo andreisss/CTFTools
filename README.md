@@ -69,3 +69,5 @@ REVERSE binary:
 ltrace ./file
 gdb-pwndbg file  - info functions - unhex value (rax,rdx)
 
+ghidra
+x86dbg
