@@ -45,6 +45,7 @@ https://www.youtube.com/watch?v=YmJoeoXilac  (Angstrom CTF 2022 - Challenge Walk
 
 ++Reverse
 - GDB
+- hexdump -C
 - IDA Pro
 - Immunity Debugger
 - OllyDbg
