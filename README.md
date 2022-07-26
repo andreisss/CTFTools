@@ -12,6 +12,7 @@ During this event, you will:
 https://redcanary.com/threat-detection-report/techniques/process-injection/
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
 https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+https://gist.github.com/ssstonebraker/a1964b2f20acc8edb239409b6c4906ce
 
 
 https://www.youtube.com/watch?v=rAGkm4pv44s (Audio Spectrogram & StegCracker Passwords - DownUnderCTF)
